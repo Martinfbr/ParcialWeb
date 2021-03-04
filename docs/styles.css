@@ -66,6 +66,7 @@ body {
     padding-right: 4px;
     padding-left: 9px;
     font-size: 8px;
+    margin-top: 35px;
 
   }
 
@@ -127,6 +128,7 @@ aside{
 
 footer{
     padding-left: 270px ;
+    margin-top: 20px;
     color: #eae6ff;
     
 }
