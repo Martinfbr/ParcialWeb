@@ -70,7 +70,7 @@ article button{
     font-weight: bold;
     color: var(--blanco);
     position: absolute;
-    background: #c4c4f7;
+    background: #EECE68;
     margin-top: 5%;
     padding-top: 10px;
     padding-right: 4px;
@@ -85,11 +85,14 @@ article button{
 }
 .container {
     width: 596.258px;
-    background: var(--blanco);
+    background: #FFF url("./img/Fondoamarillo.png") no-repeat 90px ;
     margin-top: 56.15px;
     margin-left: 25%;
     box-shadow: 3px 2px 5px 5px rgba(27, 27, 27, 0.192);
     
+}
+.imgfondo{
+    width: 300px;
 }
 nav{
     margin-top: -35px;
@@ -127,7 +130,7 @@ aside{
 
 .img{
     width: 304px;
-    margin-right: -10px;
+    margin-right: 10px;
 }
 footer{
     
