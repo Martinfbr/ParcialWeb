@@ -8,6 +8,7 @@
     --blanco: #FFFFFF;
     --lila: #645DBA;
     --lilaclaro: #eae6ff;
+    --Morado:#5C3E63;
 }
 
 .espacio{
@@ -20,17 +21,18 @@
     font-size: 15px;
 }
 body {
-    background-color: #645DBA;
+    background-color: #5C3E63;
 }
 
 .navbar {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: normal;
-    color: var(--otrogris);
-    font-size: 8.46px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #494241;
+    font-size: 8.47px;
     padding-left: 300px;
     padding-top: -15;
     bottom: auto;
+
 }
 .navbar button{
     background: #c4c4f7;
@@ -49,12 +51,12 @@ body {
 
 .parrafo{
     padding-right: 60%;
-    font-family: 'Open Sans',sans-serif;
-    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:300;
     padding-top: 15px;
     margin-top: 15px;
-    font-size: 7.5px;
-    color: #8E8E8E;
+    font-size: 6.21px;
+    color: #494241;
 }
 
 article{
@@ -64,7 +66,7 @@ article{
 
 }
 article button{
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color: var(--blanco);
     position: absolute;
@@ -85,7 +87,7 @@ article button{
     width: 596.258px;
     background: var(--blanco);
     margin-top: 56.15px;
-    margin-left: 77.4px;
+    margin-left: 25%;
     box-shadow: 3px 2px 5px 5px rgba(27, 27, 27, 0.192);
     
 }
@@ -94,19 +96,19 @@ nav{
     padding-right: 40px;
 }
 .Digital {
-    font-family: 'Open Sans',sans-serif;
-    font-weight: bold;
-    font-size: 40.03px;
-    color: #133B4F;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:  900;
+    font-size: 45.59Px;
+    color: #5B3664;
     margin-bottom: -1%;  
     margin-top: 80px;  
 }
 
 .Marketing {
-    font-family: 'Open Sans',sans-serif;
-    font-size: 17.67px;
-    color: #FCA70C;
-    padding-top: -10%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 9.79px;
+    color: #5B3664;
+    padding-top: -5%;
     
 }
 header{
@@ -117,14 +119,19 @@ header{
 
 }
 aside{
-    margin-left: 45%;
-    margin-top: -20%;
+    margin-left: 49%;
+    margin-top: -18%;
+
     
 }
 
+.img{
+    width: 304px;
+    margin-right: -10px;
+}
 footer{
     
-    margin-left: 300px;
+    margin-left: 37%;
     margin-top: 20px;
     color: #eae6ff;
     margin-right: -50px;
