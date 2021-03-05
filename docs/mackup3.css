@@ -82,6 +82,7 @@ article button{
     padding: 7px 10px;
     border: none;
     outline: none;
+    cursor: pointer;
 }
 
 a {
@@ -95,6 +96,13 @@ a {
     box-shadow: 2px 8px 8px 2px rgba(27, 27, 27, 0.548);
     
 }
+ul > li {
+    display: inline;
+    cursor: pointer;
+}
+.clear {
+    clear: both;
+  }
 .imgfondo{
     width: 300px;
 }
@@ -135,6 +143,7 @@ header .logo{
     font-size: 8.47px;
     width: 8.135px;
     padding-top: 10px;
+    cursor: pointer;
 
 }
 header .logoletra{
