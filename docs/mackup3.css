@@ -83,12 +83,16 @@ article button{
     border: none;
     outline: none;
 }
+
+a {
+    text-decoration: none;
+  }
 .container {
-    width: 596.258px;
+    width: 578.039px;
     background: #FFF url("./img/Fondoamarillo.png") no-repeat 90px ;
     margin-top: 56.15px;
-    margin-left: 25%;
-    box-shadow: 3px 2px 5px 5px rgba(27, 27, 27, 0.192);
+    margin-left: 20%;
+    box-shadow: 2px 8px 8px 2px rgba(27, 27, 27, 0.548);
     
 }
 .imgfondo{
@@ -142,7 +146,7 @@ header .logoletra{
     margin-top: 10px;
 }
 aside{
-    margin-left: 49%;
+    margin-left: 274px;
     margin-top: -18%;
 
     
