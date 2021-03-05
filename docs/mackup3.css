@@ -115,11 +115,31 @@ nav{
     
 }
 header{
-    font-family: 'Open Sans',sans-serif;
-    font-weight: normal;
+   
     margin-left: 20px;
     padding-top: 1px;
 
+}
+
+header .logo{
+    width: 11.8px;
+    padding-top: 20px;
+}
+.search{
+    margin-top: -20px;
+    color: #494241;
+    font-size: 8.47px;
+    width: 8.135px;
+    padding-top: 10px;
+
+}
+header .logoletra{
+    font-size: 12.7px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #494241;
+    padding-top: 10px;
+    margin-top: 10px;
 }
 aside{
     margin-left: 49%;
