@@ -11,36 +11,62 @@
     --Morado:#5C3E63;
 }  
 
-.logo{
-    margin-top: 8px;
-    margin-left: 8px;
-    font-size: 15px;
+
+
+header .logo{
+    width: 11.8px;
+    padding-top: 20px;
 }
+header .logoletra{
+    font-size: 12.7px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #494241;
+    margin-top: -19px;
+    margin-left: 15px;
+}
+
 body {
     background-color: #5C3E63;
 }
 
 .navbar {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    
     color: #494241;
     font-size: 8.47px;
-    padding-left: 285px;
+    padding-left: 340px;
     bottom: auto;
     word-spacing: 10px;
     cursor: pointer;
+    margin-top: 20px;
 
+}
+.navbar .letra{
+    font-family: 'Montserrat', sans-serif;
+   
+    color: #494241;
+}
+.navbar .home{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+    color: #494241;
+}
+.navbar .icone{
+    color: #494241;
 }
 .search{
     color: #494241;
     width: 8.135px;
     cursor: pointer;
+    font-weight: bold;
     
 }
 
 .parrafo{
     padding-right: 60%;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-weight:300;
     padding-top: 15px;
     margin-top: 15px;
@@ -53,6 +79,10 @@ article{
    margin-top: -20px; 
    margin-left: 22.16px;
 
+}
+article .iconoos{
+    color: #FCA70C;
+    margin-top: 100px;
 }
 article button{
     font-family: 'Montserrat', sans-serif;
@@ -99,20 +129,21 @@ nav{
     margin-top: -35px;
     padding-right: 40px;
 }
-.Digital {
+article .Digital {
     font-family: 'Montserrat', sans-serif;
     font-weight:  900;
     font-size: 45.59Px;
     color: #5B3664;
     margin-bottom: -1%;  
-    margin-top: 80px;  
+    margin-top: 80px;
+    margin-left: -2px ;  
 }
 
 .Marketing {
     font-family: 'Montserrat', sans-serif;
     font-size: 9.79px;
     color: #5B3664;
-    padding-top: -5%;
+    padding-top:10px;
     
 }
 header{
@@ -122,18 +153,7 @@ header{
 
 }
 
-header .logo{
-    width: 11.8px;
-    padding-top: 20px;
-}
-header .logoletra{
-    font-size: 12.7px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    color: #494241;
-    padding-top: 10px;
-    margin-top: 10px;
-}
+
 aside{
     margin-left: 274px;
     margin-top: -18%;
