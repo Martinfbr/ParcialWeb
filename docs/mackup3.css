@@ -14,17 +14,20 @@
 body {
     background-color: #5C3E63;
 }
+
 .container {
     width: 578.039px;
     background: #FFF url("./img/Fondoamarillo.png") no-repeat 90px ;
-    margin-top: 56.15px;
-    margin-left: 20%;
+    margin-top: 10%;
+    margin: 0 auto;
     box-shadow: 1px 8px 10px 1px rgb(27, 27, 27);
-    
-}
+    }
 
+header{
+        margin-top: 8%;
+    }
 
-header .logo{
+    header .logo{
     width: 11.8px;
     padding-top: 20px;
 }
@@ -167,7 +170,7 @@ aside{
 }
 footer{
     
-    margin-left: 37%;
+    margin-left:44%;
     margin-top: 20px;
     color: #eae6ff;
     margin-right: -50px;

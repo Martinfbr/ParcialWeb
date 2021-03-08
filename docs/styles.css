@@ -115,7 +115,7 @@ nav{
     margin-top: -35px;
     padding-right: 40px;
 }
-.Digital {
+article .Digital {
     font-family: 'Open Sans',sans-serif;
     font-weight: bold;
     font-size: 40.03px;
@@ -124,11 +124,13 @@ nav{
     margin-top: 80px;  
 }
 
-.Marketing {
+article .Marketing {
     font-family: 'Open Sans',sans-serif;
     font-size: 17.67px;
     color: #FCA70C;
     padding-top: -10%;
+    letter-spacing:9px;
+
     
 }
 header{
@@ -146,7 +148,7 @@ aside{
 
 footer{
     
-    margin-left: 300px;
+    margin-left:35%;
     margin-top: 20px;
     color: #eae6ff;
     margin-right: -50px;

@@ -74,17 +74,15 @@ header .logoletra{
     font-weight: bold;
 }
 
-
-
 article{
    margin-top: -20px; 
    margin-left: 22.16px;
 }
 article .Motion {
     font-family: 'Montserrat', sans-serif;
-    font-weight:  900;
-    font-size: 45.59Px;
-    color: #5B3664;
+    font-weight:  700;
+    font-size: 32.59Px;
+    color: #050007;
     margin-bottom: -1%;  
     margin-top: 80px;
     margin-left: -2px ;  
@@ -92,17 +90,17 @@ article .Motion {
 article .parrafo{
     padding-right: 70%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     padding-top: 15px;
     margin-top: 15px;
     font-size: 6.21px;
-    color: #494241;
+    color: #000000;
 }
 
 article .Marketing {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    font-size: 9.79px;
+    font-weight: 400;
+    font-size: 8px;
     color: #5B3664;
     padding-top:10px;
     
