@@ -12,13 +12,17 @@
     --Morado:#5C3E63;
 }  
 body {
-    background-color: #5C3E63;
+    
+    background: url("../img/fondoazul.png") no-repeat center  ;
+  
+}
+header{
+    margin-top: 8%;
 }
 .container {
-    width: 578.039px;
-    background: #FFF url("./img/Fondoamarillo.png") no-repeat 90px ;
-    margin-top: 56.15px;
-    margin-left: 20%;
+    width: 553.039px;
+    background:#FFFFFF url("../img/ContainerAzul.png")no-repeat ;
+    margin: 0 auto;
     box-shadow: 1px 8px 10px 1px rgb(27, 27, 27);
     
 }
@@ -162,15 +166,17 @@ aside{
 }
 
 .img{
-    width: 304px;
-    margin-right: 10px;
+   margin-left: -98%;
+   margin-top: -39%;
+   margin-bottom: -4px;
+   
+   
+    
 }
 footer{
-    
-    margin-left: 37%;
-    margin-top: 20px;
+    margin: 0 auto;
     color: #eae6ff;
-    margin-right: -50px;
+    margin-left: 45%;
     
 }
 
