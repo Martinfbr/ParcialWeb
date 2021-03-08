@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800&display=swap');
 
 :root {
     --amarillo: #FCA70C;
@@ -21,7 +21,8 @@ header{
 }
 .container {
     width: 553.039px;
-    background:#FFFFFF url("../img/ContainerAzul.png")no-repeat ;
+    
+    background:#ffffff11 url("../img/ContainerAzul.png")no-repeat ;
     margin: 0 auto;
     box-shadow: 1px 8px 10px 1px rgb(27, 27, 27);
     
@@ -45,17 +46,17 @@ header .logoletra{
 .navbar {
     
     color: #494241;
-    font-size: 8.47px;
-    padding-left: 340px;
+    font-size: 7.50px;
+    padding-left: 315px;
     bottom: auto;
-    word-spacing: 10px;
+    word-spacing: 15px;
     cursor: pointer;
     margin-top: 20px;
 
 }
 .navbar .letra{
     font-family: 'Montserrat', sans-serif;
-   
+    font-weight: bold;
     color: #494241;
 }
 .navbar .home{
@@ -79,8 +80,8 @@ article{
    margin-left: 22.16px;
 }
 article .Motion {
-    font-family: 'Montserrat', sans-serif;
-    font-weight:  700;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight:  800;
     font-size: 32.59Px;
     color: #050007;
     margin-bottom: -1%;  
@@ -88,7 +89,7 @@ article .Motion {
     margin-left: -2px ;  
 }
 article .parrafo{
-    padding-right: 70%;
+    padding-right: 75%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-top: 15px;
@@ -110,17 +111,17 @@ article .iconoos{
     margin-top: 100px;
 }
 article button{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 400;
     color: var(--blanco);
     position: absolute;
-    background: #EECE68;
+    background: #FB961E;
     margin-top: 5%;
     padding-top: 10px;
     padding-right: 4px;
     padding-left: 9px;
     font-size: 8px;
-    margin-top: 35px;
+    margin-top: 50px;
     border-radius: 30px;
     position: absolute;
     padding: 7px 10px;
@@ -165,7 +166,7 @@ aside{
 
 .img{
    margin-left: -98%;
-   margin-top: -39%;
+   margin-top: -27.5%;
    margin-bottom: -4px;
    
    
