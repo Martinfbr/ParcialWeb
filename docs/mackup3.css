@@ -9,12 +9,8 @@
     --lila: #645DBA;
     --lilaclaro: #eae6ff;
     --Morado:#5C3E63;
-}
+}  
 
-.espacio{
-    margin: 7px;
-    
-}
 .logo{
     margin-top: 8px;
     margin-left: 8px;
@@ -29,24 +25,17 @@ body {
     font-weight: bold;
     color: #494241;
     font-size: 8.47px;
-    padding-left: 300px;
-    padding-top: -15;
+    padding-left: 285px;
     bottom: auto;
+    word-spacing: 10px;
+    cursor: pointer;
 
 }
-.navbar button{
-    background: #c4c4f7;
-    color: var(--otrogris);
-    border-radius: 30px;
-    position: absolute;
-    padding: 7px 10px;
-    border: none;
-    outline: none;
-    font-size: 0.7em;
-    margin-top: -3.5px;
-    padding-top: 7px;
-    padding-left: 11px;
-    font-size: 8px;
+.search{
+    color: #494241;
+    width: 8.135px;
+    cursor: pointer;
+    
 }
 
 .parrafo{
@@ -137,15 +126,6 @@ header .logo{
     width: 11.8px;
     padding-top: 20px;
 }
-.search{
-    margin-top: -20px;
-    color: #494241;
-    font-size: 8.47px;
-    width: 8.135px;
-    padding-top: 10px;
-    cursor: pointer;
-
-}
 header .logoletra{
     font-size: 12.7px;
     font-family: 'Montserrat', sans-serif;
@@ -173,3 +153,4 @@ footer{
     margin-right: -50px;
     
 }
+
