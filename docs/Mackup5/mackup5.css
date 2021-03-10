@@ -1,0 +1,170 @@
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+         :root {
+            --verde: #52CECB;
+            --azul: #283E71;
+            --negro: #000000;
+            --blanco: #FFFFFF;
+            --azulmarino: #2CA5C6;
+        }
+        
+        body {
+            background-color: #52CECB;
+        }
+        
+        .container {
+            width: 850.258px;
+            margin-top: 80%;
+            margin: 0 auto;
+            box-shadow: 1px 8px 10px 1px rgba(8, 158, 196, 0.897);
+            background: #FFFFFF;
+        }
+        
+        header {
+            margin-top: 8%;
+        }
+        
+        header .logo {
+            font-size: 17.7px;
+            font-family: 'Lato', sans-serif;
+            font-weight: 600;
+            color: #283E71;
+            margin-left: 40px;
+            margin-top: 32px;
+        }
+        
+        .navbar {
+            font-size: 15.47px;
+            padding-left: 400px;
+            bottom: auto;
+            cursor: pointer;
+            margin-top: 16px;
+            margin-left: -60px;
+            word-spacing: 15px;
+        }
+        
+        .navbar .letra {
+            font-family: 'Lato', sans-serif;
+            color: #2CA5C6;
+        }
+        
+        .navbar button {
+            color: var(--blanco);
+            background: #283E71;
+            border-radius: 80px;
+            position: absolute;
+            border: none;
+            outline: none;
+            font-size: 12px;
+            padding: 2px 13px;
+            margin-left: 50px;
+            margin-top: -4.5px;
+            font-weight: 400;
+            font-family: 'Lato', sans-serif;
+        }
+        
+        article {
+            margin-top: -20px;
+            margin-left: 22.16px;
+        }
+        
+        article .Web {
+            font-family: 'Lato', sans-serif;
+            font-weight: 700;
+            font-size: 50Px;
+            color: #5B3664;
+            margin-bottom: -3%;
+            margin-top: 60px;
+            margin-left: 35px;
+        }
+        
+        article .Landing {
+            font-family: 'Lato', sans-serif;
+            font-weight: 700;
+            font-size: 21.60px;
+            font-style: 'blond';
+            color: #2CA5C6;
+            padding-top: 10px;
+            margin-top: 15px;
+            margin-left: 36px;
+            Margin-bottom: 6%;
+        }
+        
+        article .parrafo {
+            padding-right: 60%;
+            font-family: 'Lato', sans-serif;
+            font-weight: 500;
+            padding-top: 15px;
+            margin-top: -10px;
+            margin-left: 35px;
+            font-size: 13.21px;
+            color: #2CA5C6;
+            font-style: 'semibold';
+            Margin-bottom: 6%;
+        }
+        
+        article button {
+            color: var(--blanco);
+            background: #2CA5C6;
+            border-radius: 70px;
+            position: absolute;
+            border: none;
+            outline: none;
+            font-size: 12px;
+            margin-left: 30px;
+            padding: 4px 15px;
+            margin-top: -24px;
+            font-weight: 400;
+            font-family: 'Lato', sans-serif;
+            Margin-bottom: 6%;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        ul>li {
+            display: inline;
+            cursor: pointer;
+        }
+        
+        .clear {
+            clear: both;
+        }
+        
+        .imgfondo {
+            width: 300px;
+        }
+        
+        nav {
+            margin-top: -35px;
+            padding-right: 40px;
+        }
+        
+        header {
+            margin-left: 20px;
+            padding-top: 1px;
+        }
+        
+        aside {
+            margin-left: 274px;
+            margin-top: -18%;
+        }
+        
+        .img {
+            width: 304px;
+            margin-right: 10px;
+        }
+        
+        .iconss {
+            color: #283E71;
+            margin-left: 33px;
+            margin-top: 110px;
+            padding-bottom: 30px;
+        }
+        
+        footer {
+            margin-left: 44%;
+            margin-top: 160px;
+            color: #eae6ff;
+            margin-right: -50px;
+        }
