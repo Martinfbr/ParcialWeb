@@ -16,7 +16,7 @@
             margin-top: 80%;
             margin: 0 auto;
             box-shadow: 1px 8px 10px 1px rgba(8, 158, 196, 0.897);
-            background: #FFFFFF;
+            background:#ffff url("../img/FondoMacku5.png")no-repeat;
         }
         
         header {
@@ -34,7 +34,7 @@
         
         .navbar {
             font-size: 15.47px;
-            padding-left: 400px;
+            padding-left: 350px;
             bottom: auto;
             cursor: pointer;
             margin-top: 16px;
@@ -90,7 +90,7 @@
         }
         
         article .parrafo {
-            padding-right: 60%;
+            padding-right: 70%;
             font-family: 'Lato', sans-serif;
             font-weight: 500;
             padding-top: 15px;
@@ -146,12 +146,13 @@
         }
         
         aside {
-            margin-left: 274px;
-            margin-top: -18%;
+            margin-left: 40%;
+            margin-top: -45%;
+            
         }
         
-        .img {
-            width: 304px;
+        aside .img {
+            width: 450px;
             margin-right: 10px;
         }
         
