@@ -117,9 +117,9 @@ article button {
 
 .container {
     width: 598.658px;
-    background: var(--blanco);
+    background: #FFFFFF;
     margin-top: 50.44px;
-    margin-left: 75.98px;
+    margin-left: 0 auto;
     box-shadow: 3px 2px 5px 5px rgba(236, 55, 55, 0.192);
     border-radius: 20px;
 }
@@ -133,8 +133,13 @@ nav {
     font-family: 'Gilroy-Black';
     font-weight: bold;
     font-size: 27px;
+<<<<<<< HEAD
     color: #061930;
     margin-bottom: -1%;
+=======
+    color: #133B4F;
+
+>>>>>>> 39eb12b6b73739e9734e04d9beb75b3dc46b2ddf
     margin-top: 80px;
     margin-left: 20px;
     margin-right: 200px;
@@ -148,13 +153,16 @@ header {
 }
 
 aside {
-    margin-left: 45%;
-    margin-top: -20%;
-}
 
+    margin-top: -50%;
+}
+aside .img{
+   
+
+}
 footer {
-    margin-left: 300px;
-    margin-top: 20px;
+    margin-left: 40%;
     color: #eae6ff;
     margin-right: -50px;
+    margin-top: 20px;
 }
