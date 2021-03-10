@@ -17,7 +17,7 @@ body {
 
 .container {
     width: 578.039px;
-    background: #FFF url("./img/Fondoamarillo.png") no-repeat 90px ;
+    background: #FFF url("../img/Fondoamarillo.png") no-repeat 90px ;
     margin-top: 10%;
     margin: 0 auto;
     box-shadow: 1px 8px 10px 1px rgb(27, 27, 27);
