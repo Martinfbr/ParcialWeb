@@ -8,21 +8,21 @@
 
 @font-face {
     font-family: "Gilroy-Black";
-    src: url("../fonts/Gilroy-Black.woff");
+    src: url("../font/Gilroy-Black.ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Gilroy-Semibold";
-    src: url("../fonts/Gilroy-Semibold.woff");
+    src: url("../font/Gilroy-SemiBold.ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Gilroy-Regular";
-    src: url("../fonts/Gilroy-Regular.woff");
+    src: url("../font/Gilroy-Regular.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -41,7 +41,6 @@
     margin-top: 30px;
     margin-left: 20px;
     font-size: 10px;
-    font-weight: bold;
     font-family: 'Gilroy-Black';
 }
 
@@ -59,6 +58,7 @@ body {
     padding-top: -5px;
     margin-left: 140px;
     bottom: auto;
+    font-weight: bold;
 }
 
 .navbar button {
@@ -133,7 +133,7 @@ nav {
     font-family: 'Gilroy-Black';
     font-weight: bold;
     font-size: 27px;
-    color: #133B4F;
+    color: #061930;
     margin-bottom: -1%;
     margin-top: 80px;
     margin-left: 20px;
