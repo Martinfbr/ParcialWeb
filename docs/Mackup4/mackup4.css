@@ -21,7 +21,6 @@ header{
 }
 .container {
     width: 553.039px;
-    
     background:#ffffff11 url("../img/ContainerAzul.png")no-repeat ;
     margin: 0 auto;
     box-shadow: 1px 8px 10px 1px rgb(27, 27, 27);
@@ -30,9 +29,17 @@ header{
 
 
 header .logo{
-    width: 11.8px;
-    padding-top: 20px;
+    width: 18.8px;
+    height: 18px;
+    border: 3px solid #FB961E;
+    background: #FB961E;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius:25%;
+  
+
 }
+
 header .logoletra{
     font-size: 12.7px;
     font-family: 'Montserrat', sans-serif;
@@ -51,17 +58,17 @@ header .logoletra{
     bottom: auto;
     word-spacing: 15px;
     cursor: pointer;
-    margin-top: 20px;
+    margin-top: 7px;
 
 }
 .navbar .letra{
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    font-weight: 800;
     color: #494241;
 }
 .navbar .home{
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    font-weight: 800;
     color: #494241;
 }
 
@@ -76,8 +83,8 @@ header .logoletra{
 }
 
 article{
-   margin-top: -20px; 
-   margin-left: 22.16px;
+   margin-top: -30px; 
+   margin-left: 50.16px;
 }
 article .Motion {
     font-family: 'Libre Franklin', sans-serif;
@@ -93,7 +100,7 @@ article .parrafo{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-top: 15px;
-    margin-top: 15px;
+    margin-top: 30px;
     font-size: 6.21px;
     color: #000000;
 }
@@ -121,7 +128,7 @@ article button{
     padding-right: 4px;
     padding-left: 9px;
     font-size: 8px;
-    margin-top: 50px;
+    margin-top: 80px;
     border-radius: 30px;
     position: absolute;
     padding: 7px 10px;
