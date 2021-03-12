@@ -119,7 +119,7 @@ article button {
     width: 598.658px;
     background: #FFFFFF;
     margin-top: 50.44px;
-    margin-left: 0 auto;
+    margin: 0 auto;
     box-shadow: 3px 2px 5px 5px rgba(236, 55, 55, 0.192);
     border-radius: 20px;
 }
@@ -152,7 +152,7 @@ aside {
 }
 
 footer {
-    margin-left: 40%;
+    margin-left: 25%;
     color: #eae6ff;
     margin-right: -50px;
     margin-top: 20px;
